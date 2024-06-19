@@ -1,5 +1,8 @@
 # image-recognition-project
 
+Preface: I challenged myself to attempt an image recognition task despite not having any prior 
+experience with the forementioned skill.
+
 You're a Computer Vision engineer and a client reaches out to you with a unique
 problem. They have a dataset of images where each of them contains different shapes
 randomly placed throughout. These shapes are selected from a set of three basic shapes -
